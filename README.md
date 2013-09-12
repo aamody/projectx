@@ -1,5 +1,5 @@
 # Project X
 
-This is a photo news sharing application
+This is a photo sharing application for daily news
 
 by Aashay Mody
